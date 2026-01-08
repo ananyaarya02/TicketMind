@@ -1,6 +1,6 @@
 # TicketMind
-
-<h2> Flow of the project </h2>
+<p>  TicketMind an intelligent ticket handling system with custom NLP preprocessing and TF-IDF + XGBoost for ticket type, queue, and priority prediction with confidence scores. It Enhances prediction reliability using a RAG pipeline (FAISS + Gemini LLM) to validate labels via similar historical tickets and generate context-aware automated responses.</p>
+ <h2> Flow of the project </h2>
 <img width="1045" height="686" alt="image" src="https://github.com/user-attachments/assets/c4f8391c-756d-4bb6-a9fa-38d908ff325e" />
 <h2> ✨ Key Features </h2>
 <ul>
